@@ -1,2 +1,1 @@
-# cheatsheets
-cheatsheets for some of my school modules
+Cheatsheets for some of my school modules
